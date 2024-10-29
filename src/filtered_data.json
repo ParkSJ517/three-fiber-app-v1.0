@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Australia",
+        "lat": "-25.2744",
+        "lng": "133.7751",
+        "policies": [
+            {
+                "name": "National Hydrogen Strategy",
+                "impact": 5
+            },
+            {
+                "name": "Technology Investment Roadmap",
+                "impact": 7
+            }
+        ],
+        "emissions": [
+            413,
+            415,
+            415,
+            396,
+            386
+        ]
+    },
+    {
+        "name": "Austria",
+        "lat": "47.51623",
+        "lng": "14.5501",
+        "policies": [
+            {
+                "name": "Climate and Energy Strategy 2030",
+                "impact": 8
+            }
+        ],
+        "emissions": [
+            69,
+            66,
+            67,
+            62,
+            66
+        ]
+    },
+    {
+        "name": "China",
+        "lat": "39.913818",
+        "lng": "116.363625",
+        "policies": [
+            {
+                "name": "Carbon Neutral by 2060 Goal",
+                "impact": 10
+            },
+            {
+                "name": "National Emissions Trading Scheme",
+                "impact": 6
+            }
+        ],
+        "emissions": [
+            10000,
+            10350,
+            10720,
+            10910,
+            11340
+        ]
+    },
+    {
+        "name": "Finland",
+        "lat": "61.9241",
+        "lng": "25.7482",
+        "policies": [
+            {
+                "name": "Carbon Neutral by 2035 Plan",
+                "impact": 12
+            }
+        ],
+        "emissions": [
+            44,
+            45,
+            42,
+            37,
+            37
+        ]
+    },
+    {
+        "name": "France",
+        "lat": "46.2276",
+        "lng": "2.2137",
+        "policies": [
+            {
+                "name": "Climate Energy Act",
+                "impact": 7
+            },
+            {
+                "name": "2050 Carbon Neutral Goal",
+                "impact": 10
+            }
+        ],
+        "emissions": [
+            336,
+            322,
+            315,
+            281,
+            306
+        ]
+    },
+    {
+        "name": "Germany",
+        "lat": "51.1657",
+        "lng": "10.4515",
+        "policies": [
+            {
+                "name": "Climate Action Plan 2050",
+                "impact": 9
+            }
+        ],
+        "emissions": [
+            785,
+            754,
+            707,
+            647,
+            678
+        ]
+    },
+    {
+        "name": "India",
+        "lat": "20.5937",
+        "lng": "78.9629",
+        "policies": [
+            {
+                "name": "National Action Plan on Climate Change",
+                "impact": 8
+            }
+        ],
+        "emissions": [
+            2430,
+            2590,
+            2610,
+            2420,
+            2670
+        ]
+    },
+    {
+        "name": "Japan",
+        "lat": "36.2048",
+        "lng": "138.2529",
+        "policies": [
+            {
+                "name": "2050 Net Zero Target",
+                "impact": 10
+            },
+            {
+                "name": "Green Growth Strategy",
+                "impact": 6
+            }
+        ],
+        "emissions": [
+            1190,
+            1140,
+            1100,
+            1040,
+            1060
+        ]
+    },
+    {
+        "name": "Mexico",
+        "lat": "23.6345",
+        "lng": "-102.5528",
+        "policies": [
+            {
+                "name": "2050 Climate Vision",
+                "impact": 7
+            }
+        ],
+        "emissions": [
+            465,
+            470,
+            468,
+            442,
+            468
+        ]
+    },
+    {
+        "name": "Netherlands",
+        "lat": "52.1326",
+        "lng": "5.2913",
+        "policies": [
+            {
+                "name": "Climate Agreement 2030",
+                "impact": 8
+            },
+            {
+                "name": "Carbon Neutrality by 2050",
+                "impact": 9
+            }
+        ],
+        "emissions": [
+            162,
+            158,
+            152,
+            136,
+            139
+        ]
+    },
+    {
+        "name": "Portugal",
+        "lat": "39.3999",
+        "lng": "-8.2245",
+        "policies": [
+            {
+                "name": "Roadmap for Carbon Neutrality 2050",
+                "impact": 8
+            }
+        ],
+        "emissions": [
+            55,
+            51,
+            47,
+            41,
+            39
+        ]
+    },
+    {
+        "name": "Singapore",
+        "lat": "1.3521",
+        "lng": "103.8198",
+        "policies": [
+            {
+                "name": "Long-Term Low Emissions Development Strategy",
+                "impact": 7
+            }
+        ],
+        "emissions": [
+            40,
+            50,
+            33,
+            54,
+            55
+        ]
+    },
+    {
+        "name": "South Korea",
+        "lat": "35.9078",
+        "lng": "127.7669",
+        "policies": [
+            {
+                "name": "2050 Carbon Neutrality Act",
+                "impact": 10
+            },
+            {
+                "name": "Green New Deal",
+                "impact": 12
+            },
+            {
+                "name": "Expansion of Renewable Energy Sources",
+                "impact": 5
+            }
+        ],
+        "emissions": [
+            654,
+            670,
+            646,
+            597,
+            616
+        ]
+    },
+    {
+        "name": "Sweden",
+        "lat": "60.1282",
+        "lng": "18.6435",
+        "policies": [
+            {
+                "name": "Fossil-Free Sweden Initiative",
+                "impact": 11
+            }
+        ],
+        "emissions": [
+            42,
+            42,
+            41,
+            36,
+            38
+        ]
+    },
+    {
+        "name": "Switzerland",
+        "lat": "46.8182",
+        "lng": "8.2275",
+        "policies": [
+            {
+                "name": "Net Zero Emissions by 2050",
+                "impact": 9
+            }
+        ],
+        "emissions": [
+            38,
+            36,
+            36,
+            34,
+            35
+        ]
+    },
+    {
+        "name": "United States",
+        "lat": "37.0902",
+        "lng": "-95.7129",
+        "policies": [
+            {
+                "name": "Biden's 2035 Clean Energy Goal",
+                "impact": 10
+            },
+            {
+                "name": "Net-Zero Emission Goal by 2050",
+                "impact": 9
+            }
+        ],
+        "emissions": [
+            5210,
+            5380,
+            5260,
+            4710,
+            5030
+        ]
+    }
+]
